@@ -16,6 +16,8 @@ Policies are trained with PPO via [RSL-RL](https://github.com/leggedrobotics/rsl
 NVIDIA Isaac Sim, using Isaac Lab's manager-based RL workflow. The extension lives outside the
 core Isaac Lab repository, so it can be developed and versioned independently.
 
+Trained policies are deployed on the real robot with the [spot_rl_inference](https://github.com/SaxionMechatronics/spot_rl_inference) repository.
+
 ## Tasks
 
 | Task ID | Description |
